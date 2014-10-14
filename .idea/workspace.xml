@@ -2,12 +2,511 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="31b34bc1-4c19-43d0-8f28-6d0e2fc9f1cb" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/week0/2-Chirper/server.js" afterPath="$PROJECT_DIR$/week0/2-Chirper/server.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/node-persist/node_modules/underscore/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/node-persist/persist/persist/subscriptions" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/body-parser/node_modules/qs/.jshintignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/qs/.jshintignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/body-parser/node_modules/qs/.jshintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/debug/.jshintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/qs/.jshintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/body-parser/node_modules/bytes/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/body-parser/node_modules/iconv-lite/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/body-parser/node_modules/qs/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/body-parser/node_modules/raw-body/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/cookie/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/cookie-signature/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/debug/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/debug/node_modules/ms/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/escape-html/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/etag/node_modules/crc/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/merge-descriptors/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/methods/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/parseurl/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/path-to-regexp/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/proxy-addr/node_modules/ipaddr.js/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/qs/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/send/node_modules/ms/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/vary/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/generate-key/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/generate-key/node_modules/coffee-script/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/node-persist/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/node-persist/node_modules/mkdirp/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/node-persist/node_modules/sugar/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/node-persist/node_modules/underscore/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/body-parser/node_modules/iconv-lite/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/body-parser/node_modules/qs/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/qs/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/utils-merge/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/node-persist/node_modules/mkdirp/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/node-persist/node_modules/sugar/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/node-persist/node_modules/underscore/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/node-persist/node_modules/sugar/CAUTION.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/body-parser/node_modules/qs/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/qs/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/node-persist/node_modules/sugar/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/generate-key/node_modules/coffee-script/CNAME" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/node-persist/node_modules/underscore/CNAME" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/body-parser/node_modules/qs/CONTRIBUTING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/qs/CONTRIBUTING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/generate-key/node_modules/coffee-script/CONTRIBUTING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/node-persist/node_modules/underscore/CONTRIBUTING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/proxy-addr/node_modules/ipaddr.js/Cakefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/body-parser/node_modules/iconv-lite/Changelog.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/body-parser/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/body-parser/node_modules/media-typer/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/body-parser/node_modules/on-finished/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/body-parser/node_modules/raw-body/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/body-parser/node_modules/type-is/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/body-parser/node_modules/type-is/node_modules/mime-types/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/accepts/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/accepts/node_modules/mime-types/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/etag/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/finalhandler/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/fresh/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/media-typer/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/on-finished/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/parseurl/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/proxy-addr/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/proxy-addr/node_modules/forwarded/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/range-parser/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/serve-static/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/type-is/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/type-is/node_modules/mime-types/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/body-parser/node_modules/bytes/History.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/body-parser/node_modules/depd/History.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/History.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/cookie-signature/History.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/debug/History.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/depd/History.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/methods/History.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/path-to-regexp/History.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/send/History.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/vary/History.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/body-parser/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/body-parser/node_modules/depd/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/body-parser/node_modules/iconv-lite/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/body-parser/node_modules/media-typer/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/body-parser/node_modules/on-finished/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/body-parser/node_modules/on-finished/node_modules/ee-first/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/body-parser/node_modules/qs/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/body-parser/node_modules/type-is/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/body-parser/node_modules/type-is/node_modules/mime-types/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/body-parser/node_modules/type-is/node_modules/mime-types/node_modules/mime-db/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/accepts/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/accepts/node_modules/mime-types/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/accepts/node_modules/mime-types/node_modules/mime-db/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/accepts/node_modules/negotiator/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/cookie/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/depd/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/etag/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/etag/node_modules/crc/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/finalhandler/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/fresh/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/media-typer/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/methods/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/on-finished/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/on-finished/node_modules/ee-first/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/parseurl/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/proxy-addr/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/proxy-addr/node_modules/forwarded/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/proxy-addr/node_modules/ipaddr.js/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/qs/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/range-parser/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/send/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/send/node_modules/mime/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/serve-static/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/type-is/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/type-is/node_modules/mime-types/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/type-is/node_modules/mime-types/node_modules/mime-db/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/utils-merge/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/vary/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/generate-key/node_modules/coffee-script/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/node-persist/node_modules/mkdirp/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/node-persist/node_modules/sugar/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/node-persist/node_modules/underscore/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/body-parser/node_modules/bytes/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/body-parser/node_modules/qs/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/cookie-signature/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/debug/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/escape-html/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/qs/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/0-express-example/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/body-parser/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/body-parser/node_modules/iconv-lite/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/body-parser/node_modules/media-typer/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/body-parser/node_modules/on-finished/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/body-parser/node_modules/on-finished/node_modules/ee-first/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/body-parser/node_modules/qs/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/body-parser/node_modules/raw-body/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/body-parser/node_modules/type-is/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/body-parser/node_modules/type-is/node_modules/mime-types/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/body-parser/node_modules/type-is/node_modules/mime-types/node_modules/mime-db/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/accepts/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/accepts/node_modules/mime-types/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/accepts/node_modules/mime-types/node_modules/mime-db/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/accepts/node_modules/negotiator/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/cookie/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/debug/node_modules/ms/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/etag/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/etag/node_modules/crc/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/finalhandler/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/fresh/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/media-typer/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/merge-descriptors/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/on-finished/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/on-finished/node_modules/ee-first/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/parseurl/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/proxy-addr/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/proxy-addr/node_modules/forwarded/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/proxy-addr/node_modules/ipaddr.js/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/qs/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/range-parser/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/send/node_modules/destroy/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/send/node_modules/mime/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/send/node_modules/ms/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/serve-static/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/type-is/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/type-is/node_modules/mime-types/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/type-is/node_modules/mime-types/node_modules/mime-db/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/utils-merge/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/vary/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/generate-key/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/node-persist/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/node-persist/node_modules/sugar/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/node-persist/node_modules/underscore/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/generate-key/node_modules/coffee-script/README" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/generate-key/node_modules/coffee-script/Rakefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/body-parser/node_modules/bytes/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/body-parser/node_modules/depd/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/cookie-signature/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/debug/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/depd/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/escape-html/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/methods/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/path-to-regexp/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/send/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/node-persist/node_modules/sugar/lib/analyzer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/0-express-example/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/subscriber/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/lib/application.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/node-persist/node_modules/sugar/lib/array.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/node-persist/node_modules/sugar/lib/extra/array.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/node-persist/node_modules/sugar/unit_tests/environments/sugar/array.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/body-parser/node_modules/iconv-lite/encodings/tables/big5-added.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/debug/browser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/generate-key/node_modules/coffee-script/lib/coffee-script/browser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/body-parser/node_modules/depd/lib/compat/buffer-concat.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/depd/lib/compat/buffer-concat.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/generate-key/node_modules/.bin/cake.cmd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/generate-key/node_modules/coffee-script/lib/coffee-script/cake.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/generate-key/node_modules/.bin/cake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/generate-key/node_modules/coffee-script/bin/cake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/body-parser/node_modules/depd/lib/compat/callsite-tostring.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/depd/lib/compat/callsite-tostring.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/accepts/node_modules/negotiator/lib/charset.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/node-persist/node_modules/mkdirp/test/chmod.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/node-persist/node_modules/mkdirp/test/clobber.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/generate-key/node_modules/coffee-script/lib/coffee-script/coffee-script.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/generate-key/node_modules/.bin/coffee.cmd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/generate-key/node_modules/.bin/coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/generate-key/node_modules/coffee-script/bin/coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/generate-key/node_modules/coffee-script/lib/coffee-script/command.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/body-parser/node_modules/bytes/component.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/debug/component.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/escape-html/component.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/merge-descriptors/component.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/path-to-regexp/component.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/node-persist/node_modules/sugar/lib/core.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/node-persist/examples/counter/counter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/body-parser/node_modules/iconv-lite/encodings/tables/cp936.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/body-parser/node_modules/iconv-lite/encodings/tables/cp949.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/body-parser/node_modules/iconv-lite/encodings/tables/cp950.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/etag/node_modules/crc/lib/crc.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/etag/node_modules/crc/lib/crc1.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/etag/node_modules/crc/lib/crc16.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/etag/node_modules/crc/lib/crc16_ccitt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/etag/node_modules/crc/lib/crc16_modbus.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/etag/node_modules/crc/lib/crc24.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/etag/node_modules/crc/lib/crc32.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/etag/node_modules/crc/lib/crc8.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/etag/node_modules/crc/lib/crc8_1wire.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/etag/node_modules/crc/lib/create.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/node-persist/node_modules/sugar/lib/locales/da.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/node-persist/node_modules/sugar/lib/date.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/node-persist/node_modules/sugar/unit_tests/environments/sugar/date.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/node-persist/node_modules/sugar/unit_tests/environments/sugar/date_da.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/node-persist/node_modules/sugar/unit_tests/environments/sugar/date_de.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/node-persist/node_modules/sugar/unit_tests/environments/sugar/date_es.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/node-persist/node_modules/sugar/unit_tests/environments/sugar/date_fi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/node-persist/node_modules/sugar/unit_tests/environments/sugar/date_fr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/node-persist/node_modules/sugar/unit_tests/javascripts/date_helper.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/node-persist/node_modules/sugar/unit_tests/environments/sugar/date_it.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/node-persist/node_modules/sugar/unit_tests/environments/sugar/date_ja.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/node-persist/node_modules/sugar/unit_tests/environments/sugar/date_ko.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/node-persist/node_modules/sugar/unit_tests/environments/sugar/date_nl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/node-persist/node_modules/sugar/unit_tests/environments/sugar/date_pt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/node-persist/node_modules/sugar/unit_tests/environments/sugar/date_range.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/node-persist/node_modules/sugar/lib/date_ranges.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/node-persist/node_modules/sugar/unit_tests/environments/sugar/date_ru.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/node-persist/node_modules/sugar/unit_tests/environments/sugar/date_sv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/node-persist/node_modules/sugar/unit_tests/environments/sugar/date_zh_cn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/node-persist/node_modules/sugar/unit_tests/environments/sugar/date_zh_tw.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/body-parser/node_modules/type-is/node_modules/mime-types/node_modules/mime-db/db.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/accepts/node_modules/mime-types/node_modules/mime-db/db.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/type-is/node_modules/mime-types/node_modules/mime-db/db.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/body-parser/node_modules/iconv-lite/encodings/dbcs-codec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/body-parser/node_modules/iconv-lite/encodings/dbcs-data.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/node-persist/node_modules/sugar/lib/locales/de.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/debug/debug.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/node-persist/node_modules/sugar/unit_tests/environments/sugar/dom.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/accepts/node_modules/negotiator/lib/encoding.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/node-persist/node_modules/sugar/unit_tests/environments/sugar/equals.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/node-persist/node_modules/sugar/lib/locales/es.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/node-persist/node_modules/sugar/lib/es5.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/node-persist/node_modules/sugar/unit_tests/environments/sugar/es5.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/body-parser/node_modules/iconv-lite/encodings/tables/eucjp.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/lib/express.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/body-parser/node_modules/iconv-lite/lib/extend-node.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/node-persist/node_modules/sugar/lib/locales/fi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/node-persist/node_modules/sugar/lib/locales/fr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/node-persist/node_modules/sugar/lib/function.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/node-persist/node_modules/sugar/unit_tests/environments/sugar/function.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/body-parser/node_modules/iconv-lite/encodings/tables/gb18030-ranges.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/body-parser/node_modules/iconv-lite/encodings/tables/gbk-added.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/generate-key/lib/generate.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/generate-key/node_modules/coffee-script/lib/coffee-script/grammar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/generate-key/node_modules/coffee-script/lib/coffee-script/helpers.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/etag/node_modules/crc/lib/hex.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/node-persist/examples/highscores/highscores.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/node-persist/examples/highscores/public/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/node-persist/node_modules/underscore/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/body-parser/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/body-parser/node_modules/bytes/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/body-parser/node_modules/depd/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/body-parser/node_modules/depd/lib/compat/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/body-parser/node_modules/iconv-lite/encodings/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/body-parser/node_modules/iconv-lite/lib/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/body-parser/node_modules/media-typer/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/body-parser/node_modules/on-finished/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/body-parser/node_modules/on-finished/node_modules/ee-first/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/body-parser/node_modules/qs/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/body-parser/node_modules/qs/lib/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/body-parser/node_modules/raw-body/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/body-parser/node_modules/type-is/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/body-parser/node_modules/type-is/node_modules/mime-types/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/body-parser/node_modules/type-is/node_modules/mime-types/node_modules/mime-db/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/lib/router/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/accepts/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/accepts/node_modules/mime-types/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/accepts/node_modules/mime-types/node_modules/mime-db/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/cookie/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/cookie-signature/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/debug/node_modules/ms/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/depd/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/depd/lib/compat/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/escape-html/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/etag/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/etag/node_modules/crc/lib/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/finalhandler/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/fresh/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/media-typer/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/merge-descriptors/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/methods/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/on-finished/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/on-finished/node_modules/ee-first/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/parseurl/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/path-to-regexp/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/proxy-addr/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/proxy-addr/node_modules/forwarded/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/qs/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/qs/lib/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/range-parser/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/send/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/send/node_modules/destroy/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/send/node_modules/ms/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/serve-static/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/type-is/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/type-is/node_modules/mime-types/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/type-is/node_modules/mime-types/node_modules/mime-db/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/utils-merge/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/vary/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/generate-key/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/generate-key/node_modules/coffee-script/lib/coffee-script/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/node-persist/node_modules/mkdirp/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/node-persist/node_modules/underscore/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/node-persist/node_modules/sugar/lib/inflections.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/node-persist/node_modules/sugar/unit_tests/environments/sugar/inflections.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/lib/middleware/init.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/body-parser/node_modules/iconv-lite/encodings/internal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/proxy-addr/node_modules/ipaddr.js/src/ipaddr.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/proxy-addr/node_modules/ipaddr.js/lib/ipaddr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/proxy-addr/node_modules/ipaddr.js/ipaddr.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/proxy-addr/node_modules/ipaddr.js/test/ipaddr.test.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/node-persist/node_modules/sugar/lib/locales/it.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/node-persist/node_modules/sugar/lib/locales/ja.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/generate-key/node_modules/coffee-script/extras/jsl.conf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/body-parser/lib/types/json.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/node-persist/node_modules/sugar/lib/locales/ko.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/accepts/node_modules/negotiator/lib/language.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/node-persist/node_modules/sugar/lib/language.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/node-persist/node_modules/sugar/unit_tests/environments/sugar/language.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/lib/router/layer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/generate-key/node_modules/coffee-script/lib/coffee-script/lexer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/lib/router/match.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/accepts/node_modules/negotiator/lib/mediaType.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/methods/test/methods.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/send/node_modules/mime/mime.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/send/node_modules/mime/types/mime.types" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/node-persist/node_modules/mkdirp/test/mkdirp.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/node-persist/node_modules/sugar/tmp/string/namespace.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/accepts/node_modules/negotiator/lib/negotiator.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/node-persist/node_modules/sugar/lib/locales/nl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/node-persist/node-persist.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/debug/node.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/node-persist/node_modules/sugar/unit_tests/node.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/send/node_modules/mime/types/node.types" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/generate-key/node_modules/coffee-script/lib/coffee-script/nodes.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/node-persist/node_modules/sugar/lib/number.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/node-persist/node_modules/sugar/unit_tests/environments/sugar/number.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/node-persist/node_modules/sugar/lib/object.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/node-persist/node_modules/sugar/unit_tests/environments/sugar/object.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/node-persist/node_modules/sugar/unit_tests/javascripts/object_helper.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/generate-key/node_modules/coffee-script/lib/coffee-script/optparse.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/0-express-example/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/body-parser/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/body-parser/node_modules/bytes/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/body-parser/node_modules/depd/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/body-parser/node_modules/iconv-lite/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/body-parser/node_modules/media-typer/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/body-parser/node_modules/on-finished/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/body-parser/node_modules/on-finished/node_modules/ee-first/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/body-parser/node_modules/qs/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/body-parser/node_modules/raw-body/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/body-parser/node_modules/type-is/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/body-parser/node_modules/type-is/node_modules/mime-types/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/body-parser/node_modules/type-is/node_modules/mime-types/node_modules/mime-db/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/accepts/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/accepts/node_modules/mime-types/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/accepts/node_modules/mime-types/node_modules/mime-db/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/accepts/node_modules/negotiator/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/cookie/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/cookie-signature/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/debug/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/debug/node_modules/ms/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/depd/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/escape-html/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/etag/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/etag/node_modules/crc/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/finalhandler/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/fresh/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/media-typer/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/merge-descriptors/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/methods/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/on-finished/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/on-finished/node_modules/ee-first/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/parseurl/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/path-to-regexp/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/proxy-addr/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/proxy-addr/node_modules/forwarded/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/proxy-addr/node_modules/ipaddr.js/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/qs/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/range-parser/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/send/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/send/node_modules/destroy/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/send/node_modules/mime/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/send/node_modules/ms/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/serve-static/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/type-is/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/type-is/node_modules/mime-types/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/type-is/node_modules/mime-types/node_modules/mime-db/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/utils-merge/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/vary/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/generate-key/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/generate-key/node_modules/coffee-script/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/node-persist/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/node-persist/node_modules/mkdirp/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/node-persist/node_modules/sugar/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/node-persist/node_modules/underscore/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/test/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/body-parser/node_modules/qs/lib/parse.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/body-parser/node_modules/qs/test/parse.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/qs/lib/parse.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/qs/test/parse.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/generate-key/node_modules/coffee-script/lib/coffee-script/parser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/node-persist/node_modules/mkdirp/test/perm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/node-persist/node_modules/mkdirp/test/perm_sync.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/node-persist/node_modules/sugar/lib/locales/pl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/node-persist/node_modules/mkdirp/examples/pow.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/node-persist/node_modules/sugar/lib/locales/pt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/lib/middleware/query.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/node-persist/node_modules/mkdirp/test/race.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/body-parser/lib/types/raw.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/body-parser/lib/read.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/node-persist/node_modules/mkdirp/readme.markdown" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/node-persist/node_modules/sugar/lib/regexp.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/node-persist/node_modules/sugar/unit_tests/environments/sugar/regexp.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/node-persist/node_modules/mkdirp/test/rel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/generate-key/node_modules/coffee-script/lib/coffee-script/repl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/lib/request.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/lib/response.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/node-persist/node_modules/mkdirp/test/return.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/node-persist/node_modules/mkdirp/test/return_sync.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/generate-key/node_modules/coffee-script/lib/coffee-script/rewriter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/node-persist/node_modules/mkdirp/test/root.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/lib/router/route.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/node-persist/node_modules/sugar/lib/locales/ru.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/body-parser/node_modules/iconv-lite/encodings/sbcs-codec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/body-parser/node_modules/iconv-lite/encodings/sbcs-data-generated.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/body-parser/node_modules/iconv-lite/encodings/sbcs-data.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/generate-key/node_modules/coffee-script/lib/coffee-script/scope.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/node-persist/node_modules/sugar/unit_tests/javascripts/setup.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/body-parser/node_modules/iconv-lite/encodings/tables/shiftjis.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/generate-key/node_modules/coffee-script/lib/coffee-script/sourcemap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/node-persist/node_modules/sugar/lib/extra/split.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/node-persist/node_modules/sugar/tmp/string/split.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/body-parser/node_modules/iconv-lite/lib/streams.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/node-persist/node_modules/sugar/lib/string.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/node-persist/node_modules/sugar/unit_tests/environments/sugar/string.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/body-parser/node_modules/qs/lib/stringify.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/body-parser/node_modules/qs/test/stringify.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/qs/lib/stringify.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/qs/test/stringify.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/node-persist/examples/highscores/public/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/node-persist/node_modules/sugar/release/sugar-full.development.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/node-persist/node_modules/sugar/lib/locales/sv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/node-persist/node_modules/mkdirp/test/sync.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/path-to-regexp/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/send/node_modules/mime/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/node-persist/node_modules/sugar/unit_tests/environments/node/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/body-parser/lib/types/text.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/node-persist/node_modules/sugar/tmp/array/to_sentence.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/node-persist/node_modules/mkdirp/test/umask.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/node-persist/node_modules/mkdirp/test/umask_sync.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/node-persist/node_modules/underscore/underscore-min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/node-persist/node_modules/underscore/underscore.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/body-parser/lib/types/urlencoded.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/body-parser/node_modules/iconv-lite/encodings/utf16.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/body-parser/node_modules/iconv-lite/encodings/utf7.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/body-parser/node_modules/qs/lib/utils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/lib/utils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/node_modules/qs/lib/utils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/express/lib/view.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/node-persist/node_modules/sugar/lib/locales/zh-CN.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/node-persist/node_modules/sugar/lib/locales/zh-TW.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/NodeJS-C.iml" afterPath="$PROJECT_DIR$/.idea/NodeJS-C.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="NodeJS-C.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,41 +526,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="test-client.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/week0/2-Chirper/test-client.js">
+      <file leaf-file-name="app.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/week1/1-hackernews-scraper/subscriber/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="252">
-              <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+            <state line="74" column="9" selection-start="1819" selection-end="1819" vertical-scroll-proportion="0.57789856" vertical-offset="939" max-vertical-offset="2295">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="server.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/week0/2-Chirper/server.js">
+      <file leaf-file-name="package.json" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/week1/1-hackernews-scraper/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.2769231" vertical-offset="0" max-vertical-offset="1170">
-              <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="client.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/week0/2-Chirper/client.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="126">
-              <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test-server.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/week0/2-Chirper/test-server.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="504">
-              <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+            <state line="4" column="22" selection-start="141" selection-end="141" vertical-scroll-proportion="-2.6153846" vertical-offset="0" max-vertical-offset="221">
               <folding />
             </state>
           </provider>
@@ -77,12 +554,22 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/week1/1-hackernews-scraper/package.json" />
+        <option value="$PROJECT_DIR$/week1/1-hackernews-scraper/subscriber/server.js" />
+        <option value="$PROJECT_DIR$/week1/1-hackernews-scraper/subscriber/persist/subscriptions" />
+        <option value="$PROJECT_DIR$/week1/1-hackernews-scraper/subscriber/app.js" />
+      </list>
+    </option>
+  </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="65" />
-    <option name="y" value="52" />
-    <option name="width" value="1301" />
-    <option name="height" value="716" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -98,7 +585,7 @@
     <option name="STATE" value="0" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -110,6 +597,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -130,7 +618,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -139,152 +626,294 @@
     <property name="options.lastSelected" value="settings.nodejs" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../javascript" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/week1/1-hackernews-scraper/subscriber" />
+    <property name="options.searchVisible" value="true" />
+    <property name="recentsLimit" value="5" />
+    <property name="restartRequiresConfirmation" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/week0/ini-parsing" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
-      <method />
-    </configuration>
-    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
-      <method />
-    </configuration>
-    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Node.js.subscribewr">
     <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
       <method />
     </configuration>
     <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
       <method />
     </configuration>
-    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
       <method />
     </configuration>
-    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
-      <node-options />
-      <gulpfile />
-      <tasks />
-      <pass-parent-envs>true</pass-parent-envs>
-      <envs />
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <browser start="false" url="" with-js-debugger="false" />
       <method />
     </configuration>
-    <list size="0" />
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <configuration default="false" name="subscribewr" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="app.js" working-dir="$PROJECT_DIR$/week1/1-hackernews-scraper/subscriber">
+      <browser start="false" url="" with-js-debugger="false" />
+      <RunnerSettings RunnerId="NodeJS.debug" />
+      <ConfigurationWrapper RunnerId="NodeJS.debug" />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Node.js.subscribewr" />
+    </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="31b34bc1-4c19-43d0-8f28-6d0e2fc9f1cb" name="Default" comment="" />
       <created>1412693324089</created>
-      <option name="number" value="Default" />
       <updated>1412693324089</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="52" width="1301" height="716" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15409055" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="true" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32901135" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.260574" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.0" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-    </layout>
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.0" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.260574" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USERS">
+      <collection />
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/week0/ini-parsing/parser.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1710">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/EcmaScript.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33277592" vertical-offset="15173" max-vertical-offset="16884">
-          <caret line="854" column="17" selection-start-line="854" selection-start-column="17" selection-end-line="854" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/lib.d.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="6888" max-vertical-offset="255546">
-          <caret line="407" column="4" selection-start-line="407" selection-start-column="4" selection-end-line="407" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/week0/ini-parsing/parser.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1710">
-          <caret line="20" column="35" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/week0/2-Chirper/README.md">
-      <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.033898305" vertical-offset="108" max-vertical-offset="2934">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/week0/2-Chirper/test-client.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="252">
-          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/week0/2-Chirper/client.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="126">
-          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/week0/2-Chirper/test-server.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="504">
-          <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="238">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/week0/2-Chirper/server.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2769231" vertical-offset="0" max-vertical-offset="1170">
-          <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1105">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week0/2-Chirper/client.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="153">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week0/2-Chirper/test-server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="476">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week0/ini-parsing/parser.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0" />
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/EcmaScript.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/lib.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week0/ini-parsing/parser.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week0/2-Chirper/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week0/2-Chirper/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="21" selection-start="500" selection-end="500" vertical-scroll-proportion="0.33840948" vertical-offset="208" max-vertical-offset="1105">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week0/2-Chirper/test-client.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week0/2-Chirper/client.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week0/2-Chirper/test-server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week1/0-express-example/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="553">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week1/test/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="591">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week1/0-express-example/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="19" selection-start="0" selection-end="506" vertical-scroll-proportion="-6.5384617" vertical-offset="0" max-vertical-offset="374">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week1/1-hackernews-scraper/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2737">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/node-persist/.npmignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="12" selection-start="22" selection-end="22" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="119">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/node-persist/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1088">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week1/0-express-example/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="70" column="4" selection-start="1364" selection-end="1364" vertical-scroll-proportion="-12.115385" vertical-offset="875" max-vertical-offset="1445">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week1/1-hackernews-scraper/node_modules/node-persist/node-persist.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="131" column="8" selection-start="3124" selection-end="3124" vertical-scroll-proportion="0.33333334" vertical-offset="2030" max-vertical-offset="5491">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week1/1-hackernews-scraper/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="22" selection-start="141" selection-end="141" vertical-scroll-proportion="-2.6153846" vertical-offset="0" max-vertical-offset="221">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week1/1-hackernews-scraper/subscriber/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="74" column="9" selection-start="1819" selection-end="1819" vertical-scroll-proportion="0.57789856" vertical-offset="939" max-vertical-offset="2295">
           <folding />
         </state>
       </provider>
