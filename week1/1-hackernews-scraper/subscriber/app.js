@@ -8,19 +8,25 @@ storage.initSync({
     continuous: true
 });
 
-storage.setItem('subscriptions', []);
-
-//generate key
-//rand.generateKey(100);
-
-
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({extended: true}));
+
+if( !storage.getItem('subscriptions')){
+storage.setItem('subscriptions', {});
+}
+
+if( !storage.getItem('subscribers')){
+    storage.setItem('subscribers', []);
+}
+
+
 
 function validateEmail(email) {
     var re = /^(([^<>()[\]\\.,;:\s@\"]+(\.[^<>()[\]\\.,;:\s@\"]+)*)|(\".+\"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
     return re.test(email);
 }
+
+function sendActivationEmail(){}
 
 /**
 * validate the input and
@@ -30,15 +36,52 @@ function validateEmail(email) {
 * @param keywords
 * @returns {{email: *, subscriberId: *}}
 */
-function subscribe(email, keywords){
+function subscribe(email, keywords, getType){
+
     // validate the input
     if(!validateEmail(email)){
         return { "error": "Invalid Email!"};
     }
+    var dbEmail;
+    var subscribers = storage.getItem("subscribers");
+    subscribers.some(function(em){
+        if(em["email"] === email){
+            dbEmail = em;
+            return true;
+        }
+    });
 
-
+    if(!dbEmail){
+        var newEmail = {
+            email : email,
+            confirmed: 0,
+            id: rand.generateKey(25)
+        }
+        subscribers.push(newEmail);
+        storage.setItem('subscribers', subscribers);
+        sendActivationEmail();
+    } else if(dbEmail["confirmed"] === 0){
+        sendActivationEmail();
+    }
+    console.log("subscribers:  ");
+    console.log(subscribers);
+if(!Array.isArray(getType) || getType.length < 1
+    || (getType.indexOf("story") == -1 && getType.indexOf("comment") == -1)){
+    return {'error': "Invalid type!"};
+}
+    var type = [];
+   if(getType.indexOf("story") > -1){
+       type.push("story");
+   }
+    if(getType.indexOf("comment") > -1){
+        type.push("comment");
+    }
     if(!Array.isArray(keywords) || keywords.length < 1){
-        return {"error" :"Invaid keywords!"};
+        return {"error" :"Invalid keywords!"};
+    }
+
+    if(type.length === 0){
+        return {'error': "Invalid type!"};
     }
 
     var subscriptions = storage.getItem('subscriptions');
@@ -46,7 +89,8 @@ function subscribe(email, keywords){
     var newSub = {
         "id" : key,
         "email" : email,
-        "keywords" : keywords
+        "keywords" : keywords,
+        "type" : type
     };
     subscriptions.push(newSub);
 
@@ -93,11 +137,12 @@ function deleteSubscription( id){
 */
 app.post('/subscribe', function (req, res) {
     var email = req.body.email,
-        keywords = req.body.keywords;
+        keywords = req.body.keywords,
+        type = req.body.type;
     console.log(email);
     console.log(keywords);
     console.log(req.body);
-    var result = subscribe(email, keywords);
+    var result = subscribe(email, keywords, type);
     console.log(result);
     res.json(
         result
@@ -118,7 +163,7 @@ app.post('/unsubscribe', function(req, res){
     );
 });
 
-app.post('/listSubscribers', function(req, res){
+app.get('/listSubscribers', function(req, res){
     res.json(
         storage.getItem('subscriptions')
     );
@@ -126,4 +171,4 @@ app.post('/listSubscribers', function(req, res){
 
 
 
-app.listen(8881);
+app.listen(8888);

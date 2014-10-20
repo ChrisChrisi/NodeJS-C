@@ -1,0 +1,5 @@
+{
+    "dependencies": {
+          "promise" : "^6.0.0"
+    }
+}

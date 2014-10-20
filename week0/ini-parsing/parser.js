@@ -16,8 +16,8 @@ function parseType(string) {
 
 function parseIni(link, name) {
     var result = {};
-    http.get(link, function (res) {
-        res.on('data', function (data) {
+        http.get(link, function (res) {
+            res.on('data', function (data) {
             data = data.toString();
 
             var rows = data.split(endOfLine);
